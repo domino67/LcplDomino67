@@ -35,4 +35,4 @@ steps:
 
 - task: BatchScript@1
   inputs:
-    filename: 'https://github.com/domino67/Ignite2019/blob/master/src/PokerLeagueManager.UI.Web/BuildAngular.bat'
+    filename: 'src/PokerLeagueManager.UI.Web/BuildAngular.bat'
